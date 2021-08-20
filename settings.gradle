@@ -1,0 +1,2 @@
+rootProject.name = "VelogWebview"
+include ':app'
